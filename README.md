@@ -19,5 +19,5 @@
 - Brief description of the Project
 
 ## Screenshots
-![ScreenShot] ()
+![ScreenShot] 
 
